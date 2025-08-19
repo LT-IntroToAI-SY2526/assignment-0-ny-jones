@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Nyleah Jones 
+**Date:** 8/19/2025
 
 ---
 
@@ -26,7 +26,7 @@ All answers can be found in the README.md file
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/ny-jones?tab=repositories
 
 ---
 
