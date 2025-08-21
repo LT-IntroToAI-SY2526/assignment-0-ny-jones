@@ -10,7 +10,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a VCS, this funcation is the software for more of the work end, while; GitHub is to connect user interfaces together. With Github users can oteract with eachother.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
